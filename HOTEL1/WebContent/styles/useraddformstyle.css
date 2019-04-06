@@ -1,0 +1,77 @@
+.usercontainer
+{
+	border:5px solid #000;
+	border-radius:3px;
+	padding-top: 10px; 
+	padding-left: 5px;
+	width:50%;
+	padding-right: 40px;
+	padding-bottom: 10px; 
+	background-color: gray;
+	margin-top: 250px;
+	margin-left: 200px;
+	font-family: cursive;
+	font-size: 150%;
+	
+	
+}
+#uid
+{
+	width:100%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: border-box;
+	background-color: orange;
+	font-family: sans-serif;
+	font-size: 75%;
+}
+#unm
+{
+	width:100%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: border-box;
+	background-color: orange;
+	font-family: sans-serif;
+	font-size: 75%;
+}
+#url
+{
+	width:100%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: border-box;
+	background-color: orange;
+	font-family: sans-serif;
+	font-size: 75%;
+}
+
+input[type=submit]
+{
+	width:100%;
+	cursor:pointer;
+	background-color:green;
+	color: white;
+	padding:10px;
+	border-radius: 5px;
+	margin: 6px;
+	
+}
+
+input[type=reset]
+{
+	width:100%;
+	cursor: pointer;
+	background-color: green;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 6px;
+	
+}
